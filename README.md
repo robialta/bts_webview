@@ -1,6 +1,6 @@
 # bts_webview
 
-A new Flutter package.
+A flutter package to render web view support for all platform
 
 ## Getting Started
 
